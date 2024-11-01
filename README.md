@@ -13,7 +13,7 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ### Day 1: Points
 
-For Day 1 with the theme of points, I decided to plot the distribution of Sakura Blossoms in Vancouver for 2021. The addresses for the trees were geocoded using the British Columbia (BC) Address Geocoder followed by adopting a pink firefly style to represent each tree.
+For Day 1 with the theme of points, I decided to plot the distribution of Cherry Blossoms in Vancouver for 2021. The addresses for the trees were geocoded using the British Columbia (BC) Address Geocoder followed by adopting a pink firefly style to represent each tree.
 
 ![Sakura Blossoms in Vancouver 2021](Day%201/Designs/Day%201.png)
 

@@ -7,10 +7,9 @@ About the #30DayMapChallenge , check out <https://30daymapchallenge.com/> !
 
 ### About me
 
-I am MSc Graduate in Urban Spatial Science from the Centre for Advanced Spatial Analysis (CASA), UCL. \
-My specialisation is in Geographic Information Systems, Remote Sensing, Data Science and Agent-Based Modelling. \
+I am MSc Graduate in Urban Spatial Science from the Centre for Advanced Spatial Analysis (CASA), UCL. My specialisation is in Geographic Information Systems, Remote Sensing, Data Science and Agent-Based Modelling. \
 My other interests include hiking, drone piloting/photography and board games. \
-For opportunities or collaboration, I can be contacted on [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
+For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
 ### Day 1: Points
 

@@ -13,9 +13,9 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ### Day 2: Lines
 
-What if the contiguous United States had a train network connecting all its National Parks? I experimented with network connectivity by linking parks based on nearest neighbour if no existing connection existed. This approach created a feww isolated triangles, so I applied a minimum spanning tree algorithm to create a skeleton network. To further enhance connectivity and build in redundancy (to ensure disruptions at key nodes do not sever the entire network), I added two cross-country lines and transformed one segment into a loop. The design draws inspiration from the Tube map style, with line names inspired by quintessentially American themes.
+What if the contiguous United States had a train network connecting all its National Parks? I experimented with network connectivity by linking parks based on nearest neighbour if no existing connection existed. This approach created a few isolated triangles, so I applied a minimum spanning tree algorithm to create a skeleton network. To further enhance connectivity and build in redundancy (to ensure disruptions at key nodes do not sever the entire network), I added two cross-country lines and transformed one segment into a loop. The design draws inspiration from the Tube map style, with line names inspired by quintessentially American themes.
 
-![What if the US National Parks had a tube network?](Day%202/National%20Parks%20Map.png)
+![What if the US National Parks had a tube network?](Day%202/National%20Parks_resized%20Map.png)
 
 Data Source: [National Park Coordinates](https://osm4wiki.toolforge.org/cgi-bin/wiki/wiki-osm.pl?project=en&article=List_of_national_parks_of_the_United_States)
 

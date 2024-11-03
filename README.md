@@ -13,7 +13,7 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ### Day 3: Polygons
 
-Using the SRTM plugin in QGIS, I obtained the elevation data for the Isle of Skye before generating the contour polygons and adjusting the symbol levels. Isle of Skye is has a lot of fascinating natural formations including the Old Man of Storr although I was met with heavy showers during my visit in April this year.
+Using the SRTM plugin in QGIS, I obtained the elevation data for the Isle of Skye before generating the contour polygons and adjusting the symbol levels. Isle of Skye has a lot of fascinating natural formations including the Old Man of Storr although I was met with heavy showers during my visit in April this year.
 
 ![Isle of Skye](Day%203/Designs/IsleofSkye50_100m_Edited.png)
 

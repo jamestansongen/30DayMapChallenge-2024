@@ -15,7 +15,7 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 Earlier this year, my team participated in a hackathon and we spent quite a fair bit of time trying to figure out H3 for a data visualisation segment. This [H3 tutorial](https://uber.github.io/h3-py/polygon_tutorial.html#) was quite useful in covering the fundamentals. This time I applied the python code to map the occurences of 16 threatened and migratory marine specieis in the North Marine Bioregion of Australia. As the data ranges from 1905 to 2020, I chose to show simply where the occurences are as the count or average/year could be potentially misleading.
 
-![Threatened Species Northern Australia](Day%204/Day$204.gif)
+![Threatened Species Northern Australia](Day%204/Day$204_compressed.gif)
 
 Data Source: [NESP A12: Northern Australia threatened species, Australia (1905-2020)](https://www.gbif.org/dataset/774c4fd0-fb00-41d2-8bdc-65fc1c809d21)
 

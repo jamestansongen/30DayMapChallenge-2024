@@ -13,7 +13,7 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ### Day 4: Hexagons
 
-Using the SRTM plugin in QGIS, I obtained the elevation data for the Isle of Skye before generating the contour polygons and adjusting the symbol levels. Isle of Skye has a lot of fascinating natural formations including the Old Man of Storr although I was met with heavy showers during my visit in April this year.
+Earlier this year, my team participated in a hackathon and we spent quite a fair bit of time trying to figure out H3 for a data visualisation segment. This [H3 tutorial](https://uber.github.io/h3-py/polygon_tutorial.html#) was quite useful in covering the fundamentals. This time I applied the python code to map the occurences of 16 threatened and migratory marine specieis in the North Marine Bioregion of Australia. As the data ranges from 1905 to 2020, I chose to show simply where the occurences are as the count or average/year could be potentially misleading.
 
 ![Threatened Species Northern Australia](Day%204/Day$204.gif)
 

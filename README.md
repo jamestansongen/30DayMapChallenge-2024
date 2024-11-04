@@ -17,6 +17,8 @@ Using the SRTM plugin in QGIS, I obtained the elevation data for the Isle of Sky
 
 ![Threatened Species Northern Australia](Day%204/Day$204.gif)
 
+Data Source: [NESP A12: Northern Australia threatened species, Australia (1905-2020)](https://www.gbif.org/dataset/774c4fd0-fb00-41d2-8bdc-65fc1c809d21)
+
 ### Day 3: Polygons
 
 Using the SRTM plugin in QGIS, I obtained the elevation data for the Isle of Skye before generating the contour polygons and adjusting the symbol levels. Isle of Skye has a lot of fascinating natural formations including the Old Man of Storr although I was met with heavy showers during my visit in April this year.

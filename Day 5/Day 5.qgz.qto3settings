@@ -1,0 +1,209 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": []
+    },
+    "layers": {
+      "Abraham_Journey_d7c4ff04_090f_4f10_9cc3_a5326c6f7e78": {
+        "enabled": true,
+        "groups": []
+      },
+      "HydroLAKES_polys_v10_57546ccf_bb6a_4110_b8a5_1f7a65254240": {
+        "enabled": true,
+        "groups": []
+      },
+      "MajorRivers_9f2bfbd2_6860_48bb_a522_51fee323e407": {
+        "enabled": true,
+        "groups": []
+      },
+      "Middle_East_199cf143_4b6e_4122_aedc_a0247178893d": {
+        "enabled": true,
+        "groups": []
+      },
+      "Middle_East_5008ab2f_ac1d_4f3f_894b_f2cc7e98ed76": {
+        "enabled": true,
+        "groups": []
+      },
+      "N29E029_N37E048_a5e64398_195f_4bb8_a4ee_22a26df4ce54": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:001fd450": {
+        "enabled": true,
+        "groups": []
+      },
+      "world_administrative_boundaries_fc2bca48_6990_4bf7_9836_15ea00278322": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 3,
+      "layerId": "HydroLAKES_polys_v10_57546ccf_bb6a_4110_b8a5_1f7a65254240",
+      "name": "HydroLAKES_polys_v10",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "MajorRivers_9f2bfbd2_6860_48bb_a522_51fee323e407",
+      "name": "MajorRivers",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Abraham_Journey_d7c4ff04_090f_4f10_9cc3_a5326c6f7e78",
+      "name": "Abraham Journey",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "world_administrative_boundaries_fc2bca48_6990_4bf7_9836_15ea00278322",
+      "name": "world-administrative-boundaries",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "Middle_East_5008ab2f_ac1d_4f3f_894b_f2cc7e98ed76",
+      "name": "Middle East - Pseudocolour",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "HydroLAKES_polys_v10_57546ccf_bb6a_4110_b8a5_1f7a65254240",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "82636316",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "82636316",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "Middle_East_199cf143_4b6e_4122_aedc_a0247178893d",
+      "name": "Middle East - Hillshade",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "N29E029_N37E048_a5e64398_195f_4bb8_a4ee_22a26df4ce54",
+      "name": "N29E029_N37E048",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "HydroLAKES_polys_v10_57546ccf_bb6a_4110_b8a5_1f7a65254240",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "19e0198c",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "19e0198c",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:001fd450",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "SCENE": {
+    "checkBox_FixAspectRatio": true,
+    "checkBox_Outline": false,
+    "colorButton_Color": [
+      0,
+      0,
+      0,
+      255
+    ],
+    "colorButton_Fog": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "comboBox_MaterialType": 0,
+    "comboBox_xyShift": true,
+    "groupBox_Fog": false,
+    "lineEdit_CenterX": "4658727.932814075",
+    "lineEdit_CenterY": "3993578.3957175966",
+    "lineEdit_Height": "3756990.124549819",
+    "lineEdit_Rotation": "0",
+    "lineEdit_Width": "3756990.124549819",
+    "lineEdit_zFactor": "10",
+    "slider_Fog": 41
+  },
+  "Version": 20703
+}

@@ -13,7 +13,7 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ### Day 5: Journey
 
-Was thinking of a pilgrimage route such as Shikoku Pilgrimage or Camino de Santiago before I decided to trace Abraham's footsteps in Genesis. Tracing his journey chronologically ended up with many intersecting lines around Hebron. Hence I decided to make the map a single line passing by key moments in his life instead.
+Was thinking of a pilgrimage route such as Shikoku Pilgrimage or Camino de Santiago before I decided to trace Abraham's footsteps in Genesis. Tracing his journey chronologically ended up with many intersecting lines around Hebron. Hence I decided to make the map a single line passing by key moments in his life instead, drawing some similarities to the existing Abraham Path route.
 
 ![Abraham Path](Day%205/Day%205.png)
 

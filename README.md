@@ -11,6 +11,15 @@ I am an MSc Graduate in Urban Spatial Science from the Centre for Advanced Spati
 My other interests include hiking, drone piloting/photography and board games. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 7: Vintage
+
+
+
+![Airbnb](Day%207/Day%207_edited.png)
+
+Data Source: [Inside Airbnb](https://insideairbnb.com/get-the-data/), [Municipality of Amsterdam](https://maps.amsterdam.nl/open_geodata/)
+
+
 ### Day 6: Raster
 
 Last month, I came across an article from the [NASA Earth Observatory](https://earthobservatory.nasa.gov/images/153463/a-colorful-aurora-paints-the-night-sky) discussing how remote sensing can capture the Northern Lights. Inspired, I set out to recreate this effect in Google Earth Engine using the VIIRS sensor data. I selected a date range from 1st to 15th October to ensure comprehensive coverage across much of North America (although the peak was around 10th October). After testing various aggregation methods, including mean, median, and max pixel values, I chose the max pixel value for its ability to highlight the auroras more vividly. The final output captures the auroras alongside city lights against a dark background, creating a visual reminiscent of a star map, which I’m quite pleased with.

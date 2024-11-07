@@ -13,7 +13,7 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ### Day 7: Vintage
 
-For a modern dataset presented with a vintage aesthetic, I visualized the distribution of Airbnb listings across Amsterdam's neighborhoods. A desaturated sepia color scheme was applied to both the data and basemap, creating an aged appearance. To enhance the vintage effect, I overlaid a subtle paper texture. Additional stylistic elements include a classic compass rose, a bordered map frame, and Garamond font for labels and titles.
+For a modern dataset presented with a vintage aesthetic, I visualised the distribution of Airbnb listings across Amsterdam's neighborhoods. A desaturated sepia color scheme was applied to both the data and basemap, creating an aged appearance. To enhance the vintage effect, I overlaid a subtle paper texture. Additional stylistic elements include a classic compass rose, a bordered map frame, and Garamond font for labels and titles.
 
 ![Airbnb](Day%207/Day%207_edited.png)
 

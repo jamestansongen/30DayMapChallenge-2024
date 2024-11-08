@@ -13,7 +13,7 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ### Day 8: Data: HDX
 
-For this theme, the Humanitarian Data Exchange has a wide repository of data available and links to maps made with the data. I decided to make a leaflet map of the October 2024 flood in [Senegal](https://jamestansongen.github.io/senegalflood2024Oct23/). Using tooltip and some data analysis, one is able to see the percentage of population affected for each region.
+The Humanitarian Data Exchange has a wide repository of data and maps available. For this prompt, I decided to make a leaflet map of the October 2024 flood in [Senegal](https://jamestansongen.github.io/senegalflood2024Oct23/). Using tooltip and some data analysis, one is able to see the percentage of population affected for each region.
 
 ![Senegal Flood](Day%208/Day%208.png)
 

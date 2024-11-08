@@ -13,9 +13,9 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ### Day 8: Data: HDX
 
-The Humanitarian Data Exchange has a wide repository of data and maps available. For this prompt, I decided to make a leaflet map of the October 2024 flood in [Senegal](https://jamestansongen.github.io/senegalflood2024Oct23/). Using tooltip and some data analysis, one is able to see the percentage of population affected for each region.
+The Humanitarian Data Exchange has a wide repository of data and maps available. For this prompt, I ran some initial data analysis to calculate the percentage of people and buildings affected for each region in python before doing the final design in QGIS.
 
-![Senegal Flood](Day%208/Day%208.gif)
+![Senegal Flood](Day%208/Day%208.png)
 
 Data Source: [Flood Extent](https://data.humdata.org/dataset/floodwater-depth-in-saint-louis-and-matam-regions-senegal-as-of-23-october-2024) ; [Population](https://data.humdata.org/dataset/kontur-population-senegal) ; [Buildings](https://data.humdata.org/dataset/hotosm_sen_buildings) ; [Road](https://data.humdata.org/dataset/hotosm_sen_roads) ; [Administrative Divisions](https://data.humdata.org/dataset/whosonfirst-data-admin-sen)
 

@@ -13,7 +13,7 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ### Day 8: Data: HDX
 
-Earlier this year, my team participated in a hackathon and we spent quite a fair bit of time trying to figure out H3 for a data visualisation segment. This [H3 tutorial](https://uber.github.io/h3-py/polygon_tutorial.html#) was quite useful in covering the fundamentals. This time I applied the python code to map the occurences of 16 threatened and migratory marine species in the North Marine Bioregion of Australia. As the data ranges from a long timespan of 1905 to 2020, I chose to simply show where the occurrences are as the total count or count/year could be potentially misleading.
+For this theme, the Humanitarian Data Exchange has a wide repository of data available and links to maps made with the data. I decided to make a leaflet map of the October 2024 flood in [Senegal](https://jamestansongen.github.io/senegalflood2024Oct23/). Using tooltip and some data analysis, one is able to see the percentage of population affected for each region.
 
 ![Senegal Flood](Day%208/Day%208.png)
 

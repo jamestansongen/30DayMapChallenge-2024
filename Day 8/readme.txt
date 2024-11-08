@@ -5,6 +5,6 @@ Building Layer: https://data.humdata.org/dataset/hotosm_sen_buildings
 Road Layer: https://data.humdata.org/dataset/hotosm_sen_roads
 Administrative Divisions: https://data.humdata.org/dataset/whosonfirst-data-admin-sen
 
-Refer to notebook for more details
+Refer to notebook for data analysis
 
-Flood map without population hexagons deployed at https://jamestansongen.github.io/senegalflood2024Oct23/
+First version of flood map without population hexagons deployed at https://jamestansongen.github.io/senegalflood2024Oct23/

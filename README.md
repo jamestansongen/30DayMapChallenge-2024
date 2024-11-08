@@ -15,7 +15,7 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 Earlier this year, my team participated in a hackathon and we spent quite a fair bit of time trying to figure out H3 for a data visualisation segment. This [H3 tutorial](https://uber.github.io/h3-py/polygon_tutorial.html#) was quite useful in covering the fundamentals. This time I applied the python code to map the occurences of 16 threatened and migratory marine species in the North Marine Bioregion of Australia. As the data ranges from a long timespan of 1905 to 2020, I chose to simply show where the occurrences are as the total count or count/year could be potentially misleading.
 
-![Senegal Flood](Day%208/Day%208.gif)
+![Senegal Flood](Day%208/Day%208.png)
 
 Data Source: [Flood Extent](https://data.humdata.org/dataset/floodwater-depth-in-saint-louis-and-matam-regions-senegal-as-of-23-october-2024) ; [Population](https://data.humdata.org/dataset/kontur-population-senegal) ; [Buildings](https://data.humdata.org/dataset/hotosm_sen_buildings) ; [Road](https://data.humdata.org/dataset/hotosm_sen_roads) ; [Administrative Divisions](https://data.humdata.org/dataset/whosonfirst-data-admin-sen)
 

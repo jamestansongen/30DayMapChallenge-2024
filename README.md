@@ -13,11 +13,11 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ### Day 9: AI only
 
-For this prompt
+For this prompt, I asked ChatGPT to generate a land use map of Singapore complete with a legend and north arrow, and compared it against the [Master Plan 2019](https://www.ura.gov.sg/maps/?service=MP) as a benchmark. Some aspects of the model align to some degree such as the shape of the mainland, the islands (e.g. Pulau Ubin, Sentosa, Jurong Island), key green spaces (e.g. Central Catchment Area, Western Water Catchment Area), highway (e.g. Pan Island Expressway) and possibly the general shape of my neighbourhood. Where the map does not perform so well includes the fact that the waterways do not run that prominently through the island and it does not differentiate between residential and industrial land use. In addition, the airport is missing and the legend/labels are illegible. I also tested other AI map generators but as they are LLM models, they do not specialise in accurate, real-time maps or are able to access mapping APIs. In one instance, a Singapore town today was wrongly portrayed as a fishing village (perhaps a throwback to its past). This limitation highlights the ongoing importance of geospatial specialists and cartographers in validating maps. Their expertise not only ensures accuracy but also brings a personal creative touch to map design, as many AI-generated maps tend to follow similar patterns over time.
 
 ![Singapore Land Use](Day%209/ChatGPT/Singapore_Land%20Use_2.png)
 
-Data Source:
+Data Source: [ChatGPT](https://chatgpt.com/)
 
 ### Day 8: Data: HDX
 

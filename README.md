@@ -11,9 +11,17 @@ I am an MSc Graduate in Urban Spatial Science from the Centre for Advanced Spati
 My other interests include hiking, drone piloting/photography and board games. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 9: AI only
+
+For this prompt
+
+![Senegal Flood](Day%208/Day%208.png)
+
+Data Source:
+
 ### Day 8: Data: HDX
 
-The Humanitarian Data Exchange has a wide repository of data and maps available. For this prompt, I ran some initial data analysis to calculate the percentage of people and buildings affected for each region in python before doing the final design in QGIS.
+The Humanitarian Data Exchange has a wide repository of data and maps available. I decided to investigate the impacts of the floods in Senegal of October 2024. I ran some initial data analysis to calculate the percentage of people and buildings affected for each region in python before doing the final design in QGIS.
 
 ![Senegal Flood](Day%208/Day%208.png)
 

@@ -15,7 +15,7 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 For this prompt
 
-![Senegal Flood](Day%208/Day%208.png)
+![Singapore Land Use](Day%209/ChatGPT/Singapore_Land%20Use_2.png)
 
 Data Source:
 

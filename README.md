@@ -11,6 +11,14 @@ I am an MSc Graduate in Urban Spatial Science from the Centre for Advanced Spati
 My other interests include hiking, drone piloting/photography and board games. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 10: Pen & Paper
+
+I recently completed my MSc in Urban Spatial Science at the end of August and am actively navigating the job market in search of my next role. Besides reminding myself that I will be where I need to be eventually, constantly refining my application approach, I also allocate the time to practice/enhance my skills so that I don't become too rusty. While today's theme is not really about technical skills, I decided to exercise some creativity and convert some of the common phrases I’ve encountered, such as the “Unfortunately, we will not be moving forward with your application” bridge and the “Due to the high volume of applications received” forest into a map.
+
+On that note, if anyone is aware of geospatial, remote sensing, data science, or analyst roles (I’m eligible to work in both the UK and Singapore), I’d be glad to connect and explore any opportunities. Thank you!
+
+![Hire Me Please](Day%2010/Day%2010.png)
+
 ### Day 9: AI only
 
 For this prompt, I asked ChatGPT to generate a land use map of Singapore complete with a legend and north arrow, and compared it against the [Master Plan 2019](https://www.ura.gov.sg/maps/?service=MP) as a benchmark. Some aspects of the model align to some degree such as the shape of the mainland, the islands (e.g. Pulau Ubin, Sentosa, Jurong Island), key green spaces (e.g. Central Catchment Area, Western Water Catchment Area), highway (e.g. Pan Island Expressway) and possibly the general shape of my neighbourhood. Where the map does not perform so well includes the fact that the waterways do not run that prominently through the island and it does not differentiate between residential and industrial land use. In addition, the airport is missing and the legend/labels are illegible. I also tested other AI map generators but as they are LLM models, they do not specialise in accurate, real-time maps or are able to access mapping APIs. In one instance, a Singapore town today was wrongly portrayed as a fishing village (perhaps a throwback to its past). This limitation highlights the ongoing importance of geospatial specialists and cartographers in validating maps. Their expertise not only ensures accuracy but also brings a personal creative touch to map design, as many AI-generated maps tend to follow similar patterns over time.

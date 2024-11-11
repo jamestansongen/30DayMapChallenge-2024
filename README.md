@@ -11,6 +11,11 @@ I am an MSc Graduate in Urban Spatial Science from the Centre for Advanced Spati
 My other interests include hiking, drone piloting/photography and board games. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 11: Arctic
+
+![Arctic Bathymetry](Day%011/arctic_bathymetry.png)
+
+
 ### Day 10: Pen & Paper
 
 I recently completed my MSc in Urban Spatial Science at the end of August and am actively navigating the job market in search of my next role. Besides reminding myself that I will be where I need to be eventually, constantly refining my application approach, I also allocate the time to practice/enhance my skills so that I don't become too rusty. While today's theme is not really about technical skills, I decided to exercise some creativity and convert some of the common phrases I’ve encountered, such as the “Unfortunately, we will not be moving forward with your application” bridge and the “Due to the high volume of applications received” forest into a map.

@@ -13,7 +13,12 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ### Day 11: Arctic
 
-![Arctic Bathymetry](Day%2011/arctic_bathymetry.png)
+Last year's Day 25 theme was Antarctica so this year we are travelling to the opposite pole of the Arctic. Initially, I started the project in QGIS, but when projecting the basemap in EPSG: 3395, some distortions led to some gaps in the visualisation. I hence decided to try using Python, where the Cartopy package proved invaluable for plotting both land and ocean features in the Arctic region.
+
+To enhance the map, I overlaid GEBCO's gridded bathymetry data, which provides global elevation data at a 15 arc-second grid resolution. I had to downscale the data to make it manageable for processing and visualisation. The final map highlights the intricate details of the Arctic's terrain.
+
+
+![Arctic Topography and Bathymetry](Day%2011/arctic_topography_bathymetry.png)
 
 Data Source: [GEBCO](https://www.gebco.net/data_and_products/gridded_bathymetry_data/#area)
 

@@ -13,7 +13,7 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ### Day 11: Arctic
 
-![Arctic Bathymetry](Day%011/arctic_bathymetry.png)
+![Arctic Bathymetry](Day%2011/arctic_bathymetry.png)
 
 
 ### Day 10: Pen & Paper

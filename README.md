@@ -15,6 +15,7 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ![Arctic Bathymetry](Day%2011/arctic_bathymetry.png)
 
+Data Source: [GEBCO](https://www.gebco.net/data_and_products/gridded_bathymetry_data/#area)
 
 ### Day 10: Pen & Paper
 

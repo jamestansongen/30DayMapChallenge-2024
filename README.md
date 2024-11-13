@@ -11,6 +11,16 @@ I am an MSc Graduate in Urban Spatial Science from the Centre for Advanced Spati
 My other interests include hiking, drone piloting/photography and board games. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 13: A New Tool
+
+I initially started the day learning more about PostGIS before pivoting to Blender, as I could not decide on the type of map to make. I had previously only used Blender during my dissertation to generate 3D buildings using the [Blosm](https://github.com/vvoovv/blosm) plugin to export as .fbx file. This time I used the [BlenderGIS](https://github.com/domlysz/BlenderGIS) tool to generate a 3D terrain model of Madeira. I experimented with adjusting the colours and angles before rendering the image and adding labels in Illustrator. I first visited Madeira in 2022, and the landscape there is simply breathtaking. My top 3 recommendations are Vereda da Ponta de São Lourenço, Pico do Arieiro and Pico Ruivo (especially as a hiking enthusiast), though the island has many other attractions.
+
+P.S. The locations of some key landmarks may vary across maps, as they cover large areas, and it can be challenging to identify exact mountain peaks for placing markers accurately.
+
+![Madeira](Day%2013/Day%2013_edited.png)
+
+Tutorial Source: [Blender as a gis visualization tool](https://charliearuaikosi.substack.com/p/blender-as-a-gis-visualization-tool)
+
 ### Day 12: Time and Space
 
 To further refine my Google Earth Engine skills, I created an app to explore changes in land cover across the Galapagos Islands over time (accessible [here](https://jamestansongen94.users.earthengine.app/view/galapagos-30daymapchallenge-2024-day-12)). The map allows users to visually compare land cover between 2001 and 2023. While MODIS's 500m spatial resolution is relatively coarse compared to other satellite datasets, its extensive temporal coverage makes it valuable for long-term analysis. In comparing 2001 and 2022, some noticeable trends emerge such as deforestation, the loss of wetlands, and increased land homogeneity. The Galapagos Islands, renowned for their unique ecosystems and biodiversity, played a pivotal role in Charles Darwin's theory of evolution. Their ecological diversity continues to be critical for research on environmental change and geological processes. 

@@ -11,6 +11,14 @@ I am an MSc Graduate in Urban Spatial Science from the Centre for Advanced Spati
 My other interests include hiking, drone piloting/photography and board games. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 14: A World Map
+
+
+
+![Lego World](Day%2014/Day%2014_25_V3.png)
+
+Image Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag-map_of_the_world_%282018%29.png)
+
 ### Day 13: A New Tool
 
 I initially started the day learning more about PostGIS before pivoting to Blender, as I could not decide on the type of map to make. I had previously only used Blender during my dissertation to generate 3D buildings using the [Blosm](https://github.com/vvoovv/blosm) plugin to export as .fbx file. This time I used the [BlenderGIS](https://github.com/domlysz/BlenderGIS) tool to generate a 3D terrain model of Madeira. I experimented with adjusting the colours and angles before rendering the image and adding labels in Illustrator. I first visited Madeira in 2022, and the landscape there is simply breathtaking. My top 3 recommendations are Vereda da Ponta de São Lourenço, Pico do Arieiro and Pico Ruivo (especially as a hiking enthusiast), though the island has many other attractions.

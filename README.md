@@ -14,7 +14,7 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 ### Day 14: A World Map
 
 
-![Lego World_50](Day%2014/Day%2014_50.png)
+![Lego World_50](Day%2014/Day%2014_40.png)
 
 Base Image Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag-map_of_the_world_%282018%29.png)
 

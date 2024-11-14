@@ -17,7 +17,7 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ![Lego World](Day%2014/Day%2014_25_V3.png)
 
-Image Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag-map_of_the_world_%282018%29.png)
+Base Image Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag-map_of_the_world_%282018%29.png)
 
 ### Day 13: A New Tool
 

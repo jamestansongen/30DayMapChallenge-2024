@@ -13,7 +13,7 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ### Day 15: My data
 
-The inspiration behind this map comes from the song "Carolina in My Mind" by James Taylor (1968). I lived in Chapel Hill, North Carolina, from 2016 to 2017 as part of a Joint-Degree Programme, and those ~9 months are filled with cherished memories. Besides OSM data, I revisited old photos from my time in Chapel Hill and applied a polaroid-style border (photos count as data too!).
+The inspiration behind this map comes from the song "Carolina in My Mind" by James Taylor (1968). I lived in Chapel Hill, North Carolina, from 2016 to 2017 as part of a Joint-Degree Programme, and those ~9 months are filled with cherished memories. Besides OSM data, I added old photos from my time in Chapel Hill and applied a polaroid-style border (photos count as data too!).
 
 ![UNC](Day%2015/Day%2015.png)
 

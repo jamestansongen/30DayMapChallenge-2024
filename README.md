@@ -13,7 +13,7 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ### Day 15: My data
 
-I experimented with recreating the Lego symbology style in QGIS, which is currently available in ArcGIS but not directly in QGIS. I started with an image of the world map with national flags overlaid on each country. I experimented with various grid sizes and centroids followed by zonal statistics to calculate the predominant red, green, and blue pixel values from the base image for each grid cell to approximate each country’s color. The result successfully resembles the intended style for large, contiguous areas. However, narrow landmasses like New Zealand and parts of Southeast Asia are less visible. Overall, utilising this style requires careful balancing of grid size: if the grid cells are too large, smaller features may disappear, but if they’re too small, the Lego symbology becomes unclear and the shadow effect becomes too overpowering.
+The inspiration behind this map comes from the song "Carolina in My Mind" by James Taylor (1968). I lived in Chapel Hill, North Carolina, from 2016 to 2017 as part of a Joint-Degree Programme, and those ~9 months are filled with cherished memories. Besides OSM data, I revisited old photos from my time in Chapel Hill and applied a Polaroid-style border (photos count as data too!).
 
 ![UNC](Day%2015/Day%2015.png)
 

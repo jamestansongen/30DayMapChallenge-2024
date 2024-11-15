@@ -11,6 +11,13 @@ I am an MSc Graduate in Urban Spatial Science from the Centre for Advanced Spati
 My other interests include hiking, drone piloting/photography and board games. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 15: My data
+
+I experimented with recreating the Lego symbology style in QGIS, which is currently available in ArcGIS but not directly in QGIS. I started with an image of the world map with national flags overlaid on each country. I experimented with various grid sizes and centroids followed by zonal statistics to calculate the predominant red, green, and blue pixel values from the base image for each grid cell to approximate each country’s color. The result successfully resembles the intended style for large, contiguous areas. However, narrow landmasses like New Zealand and parts of Southeast Asia are less visible. Overall, utilising this style requires careful balancing of grid size: if the grid cells are too large, smaller features may disappear, but if they’re too small, the Lego symbology becomes unclear and the shadow effect becomes too overpowering.
+
+![UNC](Day%2015/Day%2015.png)
+
+
 ### Day 14: A World Map
 
 I experimented with recreating the Lego symbology style in QGIS, which is currently available in ArcGIS but not directly in QGIS. I started with an image of the world map with national flags overlaid on each country. I experimented with various grid sizes and centroids followed by zonal statistics to calculate the predominant red, green, and blue pixel values from the base image for each grid cell to approximate each country’s color. The result successfully resembles the intended style for large, contiguous areas. However, narrow landmasses like New Zealand and parts of Southeast Asia are less visible. Overall, utilising this style requires careful balancing of grid size: if the grid cells are too large, smaller features may disappear, but if they’re too small, the Lego symbology becomes unclear and the shadow effect becomes too overpowering.
@@ -64,7 +71,7 @@ For this prompt, I asked ChatGPT to generate a land use map of Singapore complet
 
 Data Source: [ChatGPT](https://chatgpt.com/)
 
-### Day 8: Data: HDX
+### Day 8: HDX
 
 The Humanitarian Data Exchange has a wide repository of data and maps available. I decided to investigate the impacts of the floods in Senegal of October 2024. I ran some initial data analysis to calculate the percentage of people and buildings affected for each region in python before doing the final design in QGIS.
 

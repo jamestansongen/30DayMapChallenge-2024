@@ -11,6 +11,16 @@ I am an MSc Graduate in Urban Spatial Science from the Centre for Advanced Spati
 My other interests include hiking, drone piloting/photography and board games. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 16: Choropleth
+
+To create this map, I combined two techniques: hexagons (resolution = 8) and a bivariate map. Given Singaporeans' obsession with food, my goal was to visualise food accessibility based on the distribution of supermarkets and eating establishments. Plotting eating establishments alone would show the extensive availability of food options across the country. However, when combined with supermarket locations, two key patterns emerge. Firstly, the darker hexagons correspond with areas with higher population densities or town centers. Secondly, the absence of hexagons in certain regions suggests that the predominant land use may be industrial or natural, rather than residential. Overall, what began as a map of food accessibility highlights the interconnectedness of food access, demographics, and land use.
+
+![SingaporeFood](Day%2016/Day%2016_edited.png)
+
+Tutorial Source: [Bivariate choropleth maps in QGIS](https://bnhr.xyz/2019/09/15/bivariate-choropleths-in-qgis.html)
+
+Data Source: [Supermarket](https://data.gov.sg/datasets?formats=GEOJSON|KML|SHP|KMZ&sort=relevancy&page=3&resultId=d_cac2c32f01960a3ad7202a99c27268a0) ; [Eating Establishments](https://data.gov.sg/datasets?formats=GEOJSON|KML|SHP|KMZ&sort=relevancy&page=4&resultId=d_795cd2ffc806f38da83b144a0ec2d64b)
+
 ### Day 15: My data
 
 The inspiration behind this map comes from the song "Carolina in My Mind" by James Taylor (1968). I lived in Chapel Hill, North Carolina, from 2016 to 2017 as part of a Joint-Degree Programme, and those ~9 months are filled with cherished memories. Besides OSM data, I added old photos from my time in Chapel Hill and applied a polaroid-style border (photos count as data too!).

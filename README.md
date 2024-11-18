@@ -11,6 +11,16 @@ I am an MSc Graduate in Urban Spatial Science from the Centre for Advanced Spati
 My other interests include hiking, drone piloting/photography and board games. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 18: 3D
+
+For this year’s challenge, I recycled the base workflow from last year’s 3D map, but with a twist. Besides shifting the region of interest to Hong Kong, I applied a neon theme to both the map and added labels, enhancing the overall visual appeal. Furthermore, by narrowing the focus to a smaller region (instead of an American state), the areas with higher population density become more distinct and appear to resemble high-rise buildings.
+
+![3DHK](Day%2018/Day%2018.png)
+
+Tutorial Source: [Rayshader Tutorial—Florida Population Density](https://www.youtube.com/watch?v=zgFXVhmKNbU)
+
+Data Source: [Kontur Population: Global Population Density for 400m H3 Hexagons](https://data.humdata.org/dataset/kontur-population-china-hong-kong-special-administrative-region)
+
 ### Day 17: Collaboration
 
 I had the privilege of collaborating with two talented coursemates from the Centre for Advanced Spatial Analysis, [Soki Kimura](https://www.linkedin.com/in/soki-kimura/) and [Juan Esteban Lamilla Cuellar](https://www.linkedin.com/in/juanlamilla/). The approach was to create three maps each of the same area in London, working independently without full knowledge of what the others were designing. Once completed, the maps were divided into nine grid cells, which were rearranged and experimented with to create the final masterpiece. Can you guess who created which segments of the map?

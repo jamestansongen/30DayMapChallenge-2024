@@ -13,7 +13,7 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ### Day 17: Collaboration
 
-I had the privilege of collaborating with two talented coursemates from the Centre for Advanced Spatial Analysis, [Soki Kimura](https://www.linkedin.com/in/soki-kimura/) and [Juan Esteban Lamilla Cuellar](https://www.linkedin.com/in/juanlamilla/). The challenge was to create three maps each of the same area in London, working independently without full knowledge of what the others were designing. Once completed, the maps were divided into nine grid cells, which were rearranged and experimented with to create the final masterpiece. Can you guess who created which segments of the map?
+I had the privilege of collaborating with two talented coursemates from the Centre for Advanced Spatial Analysis, [Soki Kimura](https://www.linkedin.com/in/soki-kimura/) and [Juan Esteban Lamilla Cuellar](https://www.linkedin.com/in/juanlamilla/). The approach was to create three maps each of the same area in London, working independently without full knowledge of what the others were designing. Once completed, the maps were divided into nine grid cells, which were rearranged and experimented with to create the final masterpiece. Can you guess who created which segments of the map?
 
 Fun fact: While creating this map, the three of us were collaborating from three different continents!
 

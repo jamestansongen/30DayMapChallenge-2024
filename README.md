@@ -11,6 +11,15 @@ I am an MSc Graduate in Urban Spatial Science from the Centre for Advanced Spati
 My other interests include hiking, drone piloting/photography and board games. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 17: Collaboration
+
+I had the privilege of collaborating with two talented coursemates from the Centre for Advanced Spatial Analysis, [Soki Kimura](https://www.linkedin.com/in/soki-kimura/) and [Juan Esteban Lamilla Cuellar](https://www.linkedin.com/in/juanlamilla/). The challenge was to create three maps each of the same area in London, working independently without full knowledge of what the others were designing. Once completed, the maps were divided into nine grid cells, which were rearranged and experimented with to create the final masterpiece. Can you guess who created which segments of the map?
+
+Fun fact: While creating this map, the three of us were collaborating from three different continents!
+
+![LondonCollaboration](Day%2017/Day%2017_final.png)
+
+
 ### Day 16: Choropleth
 
 To create this map, I combined two techniques: hexagons (resolution = 8) and a bivariate map. Given Singaporeans' obsession with food, my goal was to visualise food accessibility based on the distribution of supermarkets and eating establishments. Plotting eating establishments alone would show the extensive availability of food options across the country. However, when combined with supermarket locations, two key patterns emerge. Firstly, the darker hexagons correspond with areas with higher population densities or town centers. Secondly, the absence of hexagons in certain regions suggests that the predominant land use may be industrial or natural, rather than residential. Overall, what began as a map of food accessibility highlights the interconnectedness of food access, demographics, and land use.

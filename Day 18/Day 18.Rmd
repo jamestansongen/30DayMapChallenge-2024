@@ -1,0 +1,104 @@
+---
+title: "Day 18"
+output: html_document
+date: "18-11-2023"
+---
+
+```{r}
+library(sf)
+library(tigris)
+library(tidyverse)
+library(stars)
+library(rayshader)
+library(MetBrewer)
+library(colorspace)
+library(here)
+```
+
+```{r}
+# load kontur data
+data <- st_read(here("kontur_population_HK_20231101.gpkg"))
+```
+
+
+```{r}
+# define aspect ratio based on bounding box
+bb <- st_bbox(data)
+bottom_left <- st_point(c(bb[["xmin"]], bb[["ymin"]])) %>% 
+  st_sfc(crs = st_crs(data))
+bottom_right <- st_point(c(bb[["xmax"]], bb[["ymin"]])) %>% 
+  st_sfc(crs = st_crs(data))
+```
+
+```{r}
+# check by plotting points
+
+width <- st_distance(bottom_left, bottom_right)
+top_left <- st_point(c(bb[["xmin"]], bb[["ymax"]])) %>% 
+  st_sfc(crs = st_crs(data))
+
+height <- st_distance(bottom_left, top_left)
+
+# handle conditions of width or height being the longer side
+
+if (width > height) {
+  w_ratio <- 1
+  h_ratio <- height / width
+} else {
+  h_ration <- 1
+  w_ratio <- width / height
+}
+```
+
+
+```{r}
+# convert to raster so we can then convert to matrix
+
+size <- 5000
+
+hk_rast <- st_rasterize(data, 
+                             nx = floor(size * w_ratio),
+                             ny = floor(size * h_ratio))
+
+mat <- matrix(hk_rast$population, 
+              nrow = floor(size * w_ratio),
+              ncol = floor(size * h_ratio))
+
+```
+
+
+```{r}
+# create color palette
+# Custom urban neon colors
+urban_neon_colors <- c("#6600CC", "#0099FF", "#33CC33", "#FF3366", "#FFCC00", "#FF3300")
+
+# Create the texture using your custom colors
+texture <- grDevices::colorRampPalette(urban_neon_colors, bias = 2)(256)
+
+# Plot the color swatch for the custom texture
+swatchplot(texture)
+```
+
+
+```{r}
+# plot spike map
+
+rgl::close3d()
+
+
+mat %>% 
+  height_shade(texture = texture) %>% 
+  plot_3d(heightmap = mat,
+          zscale = 100 / 5,
+          solid = FALSE,
+          shadowdepth = 0,
+          background = "#262626",)
+
+```
+```{r}
+#adjust angle and zoom of image 
+render_camera(theta = 0, phi = 45, zoom = .8)
+#uncomment to take snapshot
+#render_snapshot("HK_Population.png", clear = FALSE)
+```
+

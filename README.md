@@ -11,6 +11,12 @@ I am an MSc Graduate in Urban Spatial Science from the Centre for Advanced Spati
 My other interests include hiking, drone piloting/photography and board games. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 19: Typography
+
+Decided to represent U.S. states using a collection of song titles that reference the states or their cities, arranged in a a manner to outline each state's boundaries. While the task proved more time-consuming than expected due to the effort required to find appropriate songs, I might incorporate symbols of iconic landmarks in the future to enhance the visual aspect.
+
+![Typography](Day%2019/Day%2019.png)
+
 ### Day 18: 3D
 
 For this year’s challenge, I recycled the base workflow from last year’s 3D map, but with a twist. Besides shifting the region of interest to Hong Kong, I applied a neon theme to both the map and added labels, enhancing the overall visual appeal. Furthermore, by narrowing the focus to a smaller region (instead of an American state), the areas with higher population density become more distinct and appear to resemble high-rise buildings.

@@ -15,6 +15,8 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 Today was a bit of a 'cartography-block' as I encountered missing building height and age data in various region of interest I was experimenting with. In the end, I decided to keep it simple by focusing on plotting restaurants in George Town, Penang using the Firefly style. Buildings, road edges and the underlying area were the other layers extracted in Python using the OSMnx package.
 
+Side Note: Happy GIS Day!
+
 ![OSM](Day%2020/Day%2020.png)
 
 Data Source: ![OpenStreetMap](https://www.openstreetmap.org/#map=12/1.3649/103.8229)

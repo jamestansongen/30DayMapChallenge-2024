@@ -11,6 +11,14 @@ I am an MSc Graduate in Urban Spatial Science from the Centre for Advanced Spati
 My other interests include hiking, drone piloting/photography and board games. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 21: Conflict
+
+This map focuses on the ongoing clashes along the Israel-Lebanon border, using data from The Washington Institute for Near East Policy, which tracks daily attacks since the conflict began. Inspired by the design of Minesweeper, the map divides the region into 5km by 5km grid cells, with each cell labeled to show the total number of attacks recorded. To highlight the dynamics of the conflict, a bivariate color scheme was applied, differentiating between Israeli and Hezbollah attacks, as well as areas of overlap. The resulting map visualises the intensity of the clashes in a way that underscores the harsh realities on the ground.
+
+![Conflict](Day%2021/Day%2021_edited.png)
+
+Data Source: ![The Washington Institute for Near Policy East](https://www.washingtoninstitute.org/policy-analysis/mapping-clashes-along-israel-lebanon-border)
+
 ### Day 20: OpenStreetMap
 
 Today was a bit of a 'cartography-block' as I encountered missing building height and age data in various region of interest I was experimenting with. In the end, I decided to keep it simple by focusing on plotting restaurants in George Town, Penang using the Firefly style. Buildings, road edges and the underlying area were the other layers extracted in Python using the OSMnx package.

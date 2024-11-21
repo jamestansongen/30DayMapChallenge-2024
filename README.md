@@ -13,7 +13,9 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ### Day 21: Conflict
 
-This map focuses on the ongoing clashes along the Israel-Lebanon border, using data from The Washington Institute for Near East Policy, which tracks daily attacks since the conflict began. Inspired by the design of Minesweeper, the map divides the region into 5km by 5km grid cells, with each cell labeled to show the total number of attacks recorded. To highlight the dynamics of the conflict, a bivariate color scheme was applied, differentiating between Israeli and Hezbollah attacks, as well as areas of overlap. The resulting map visualises the intensity of the clashes in a way that underscores the harsh realities on the ground.
+This map focuses on the ongoing clashes along the Israel-Lebanon border, using data from The Washington Institute for Near East Policy, which tracks daily attacks since the conflict began. Inspired by the design of Minesweeper, the map divides the region into 5km by 5km grid cells, with each cell labeled to show the total number of attacks recorded. To highlight the dynamics of the conflict, a bivariate color scheme was applied, differentiating between Israeli and Hezbollah attacks. The resulting map visualises the intensity of the clashes and unrest in the region.
+
+While making this map, I was reminded of the somber reality that, unfortunately, there will always be another conflict to map.
 
 ![Conflict](Day%2021/Day%2021_edited.png)
 

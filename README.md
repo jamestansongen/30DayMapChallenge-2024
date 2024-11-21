@@ -19,7 +19,7 @@ While making this map, I was reminded of the somber reality that, unfortunately,
 
 ![Conflict](Day%2021/Day%2021_edited.png)
 
-Data Source: ![The Washington Institute for Near Policy East](https://www.washingtoninstitute.org/policy-analysis/mapping-clashes-along-israel-lebanon-border)
+Data Source: [The Washington Institute for Near Policy East](https://www.washingtoninstitute.org/policy-analysis/mapping-clashes-along-israel-lebanon-border)
 
 ### Day 20: OpenStreetMap
 
@@ -29,7 +29,7 @@ Side Note: Happy GIS Day!
 
 ![OSM](Day%2020/Day%2020.png)
 
-Data Source: ![OpenStreetMap](https://www.openstreetmap.org/#map=12/1.3649/103.8229)
+Data Source: [OpenStreetMap](https://www.openstreetmap.org/#map=12/1.3649/103.8229)
 
 ### Day 19: Typography
 

@@ -13,7 +13,7 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ### Day 22: Two Colours
 
-I orginally planned to use red and blue to represent Iceland as the 'Land of Fire and Ice'. However, I forgot the white background would be considered a third colour and hence changed the colour scheme to be black and white. The resulting map has a retro aesthetic, with dashed lines representing boundaries, triangles marking volcanoes, and polygons styled with filled patterns to depict glaciers.
+I originally planned to use red and blue to represent Iceland as the 'Land of Fire and Ice'. However, I forgot the white background would be considered a third colour and hence changed the colour scheme to be black and white. The resulting map has a retro aesthetic, with dashed lines representing boundaries, triangles marking volcanoes, and polygons styled with filled patterns to depict glaciers.
 
 ![Iceland](Day%2022/Day%2022_edited.png)
 

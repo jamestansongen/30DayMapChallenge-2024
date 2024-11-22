@@ -11,6 +11,14 @@ I am an MSc Graduate in Urban Spatial Science from the Centre for Advanced Spati
 My other interests include hiking, drone piloting/photography and board games. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 22: Two Colours
+
+I orginally planned to use red and blue to represent Iceland as the 'Land of Fire and Ice'. However, I forgot the white background would be considered a third colour and hence changed the colour scheme to be black and white. The resulting map has a retro aesthetic, with dashed lines representing boundaries, triangles marking volcanoes, and polygons styled with filled patterns to depict glaciers.
+
+![Iceland](Day%2022/Day%2022_edited.png)
+
+Data Source: [Volcanoes](https://osm4wiki.toolforge.org/cgi-bin/wiki/wiki-osm.pl?project=en&article=List_of_volcanoes_in_Iceland) ; [Glaciers](https://developers.google.com/earth-engine/datasets/catalog/GLIMS_20230607)
+
 ### Day 21: Conflict
 
 This map focuses on the ongoing clashes along the Israel-Lebanon border, using data from The Washington Institute for Near East Policy, which tracks daily attacks since the conflict began. Inspired by the design of Minesweeper, the map divides the region into 5km by 5km grid cells, with each cell labeled to show the total number of attacks recorded. To highlight the dynamics of the conflict, a bivariate color scheme was applied, differentiating between Israeli and Hezbollah attacks. The resulting map visualises the intensity of the clashes and unrest in the region.

@@ -11,6 +11,14 @@ I am an MSc Graduate in Urban Spatial Science from the Centre for Advanced Spati
 My other interests include hiking, drone piloting/photography and board games. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 23: Memory
+
+At the start of my MSc, we were tasked with drawing a mental map of London. My initial map was quite simple, centering on Tufnell Park (where I lived), Euston Station (most accessible station to campus for me), the Pret there (thanks to a very worthwhile coffee subscription), Drayton House (the site of my Urban Systems Theory class), the UCL Quad, and the nearby Waterstones bookstore.
+
+After spending a year in London, I decided to create a new mental map, this time starting with a basemap and populating it with icons representing key memories. As London is quite walkable, I often found myself walking back from Central London (after a meal/musical), or from campus towards Tufnell Park. This habit allowed me to recall and pinpoint locations with surprising accuracy. If I had more space, I would expand it to include spots south of the Thames, UCL East and Richmond Park.
+
+![Memories of London](Day%2023/Day%2023_edited.png)
+
 ### Day 22: Two Colours
 
 I originally planned to use red and blue to represent Iceland as the 'Land of Fire and Ice'. However, I forgot the white background would be considered a third colour and hence changed the colour scheme to be black and white. The resulting map has a retro aesthetic, with dashed lines representing boundaries, triangles marking volcanoes, and polygons styled with filled patterns to depict glaciers.

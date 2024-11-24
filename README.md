@@ -11,6 +11,14 @@ I am an MSc Graduate in Urban Spatial Science from the Centre for Advanced Spati
 My other interests include hiking, drone piloting/photography and board games. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 24: Only circular shapes
+
+I originally planned to use red and blue to represent Iceland as the 'Land of Fire and Ice'. However, I forgot the white background would be considered a third colour and hence changed the colour scheme to be black and white. The resulting map has a retro aesthetic, with dashed lines representing boundaries, triangles marking volcanoes, and polygons styled with filled patterns to depict glaciers.
+
+![Renewables South America](Day%2024/Day%2024.png)
+
+Data Source: [Total Renewable Energy](https://ourworldindata.org/grapher/electricity-renewables) ; [Solar](https://ourworldindata.org/grapher/solar-energy-consumption) ; [Wind](https://ourworldindata.org/grapher/wind-generation) ; [Hydropower](https://ourworldindata.org/grapher/hydropower-consumption) ; [Boundaries](https://datacatalog.worldbank.org/search/dataset/0038272/World-Bank-Official-Boundaries)
+
 ### Day 23: Memory
 
 At the start of my MSc, we were tasked with drawing a mental map of London. My initial map was quite simple, centering on Tufnell Park (where I lived), Euston Station (most accessible station to campus for me), the Pret there (thanks to a very worthwhile coffee subscription), Drayton House (the site of my Urban Systems Theory class), the UCL Quad, and the nearby Waterstones bookstore.

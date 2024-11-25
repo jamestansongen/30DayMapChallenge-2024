@@ -19,7 +19,7 @@ Revisited one of my remote sensing practicals in Google Earth Engine. This map v
 
 Tutorial Source: [CASA0023 Remotely Sensing Cities and Environments: Temperature](https://andrewmaclachlan.github.io/CASA0023/8_temperature.html)
 
-Data Source: [MODIS Aqua](MODIS/061/MYD11A1) ; [MODIS Terra](https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD11A1)
+Data Source: [MODIS Aqua](https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MYD11A1) ; [MODIS Terra](https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD11A1)
 
 ### Day 24: Only circular shapes
 

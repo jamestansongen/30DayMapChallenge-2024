@@ -13,7 +13,7 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ### Day 25: Heat
 
-The theme of "circular shapes" sparked some flashbacks of last year's theme of "is it a map or is it a chart?" which had quite a few maps featuring pie charts and proportionate circles, blending data visualisation with geography. This year, I tried to recreate that style to explore renewable energy generation in South America. Brazil stands out as the largest renewable energy producer on the continent. Meanwhile, hydropower dominates the region's energy mix. This is largely due to South America's abundance of rivers like the Amazon, Paraná, and Orinoco, along with its mountainous landscapes, which provide the ideal conditions for hydropower production.
+Revisited one of my remote sensing practicals in Google Earth Engine. This map visualises the Average Land Surface Temperature (LST) in Africa for 2023, derived from the MODIS Aqua and Terra satellites. MODIS is an excellent dataset for studying temperature patterns due to its high temporal resolution, providing nearly daily global coverage. The map highlights the temperature variability across Africa, with higher temperatures prevailing in the Sahara Desert in the north and cooler conditions observed in the central regions, influenced by dense vegetation, and parts of the south, where temperatures are moderated by the ocean.
 
 ![Heat Africa](Day%2025/Day%2025.png)
 

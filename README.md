@@ -11,6 +11,16 @@ I am an MSc Graduate in Urban Spatial Science from the Centre for Advanced Spati
 My other interests include hiking, drone piloting/photography and board games. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 25: Heat
+
+The theme of "circular shapes" sparked some flashbacks of last year's theme of "is it a map or is it a chart?" which had quite a few maps featuring pie charts and proportionate circles, blending data visualisation with geography. This year, I tried to recreate that style to explore renewable energy generation in South America. Brazil stands out as the largest renewable energy producer on the continent. Meanwhile, hydropower dominates the region's energy mix. This is largely due to South America's abundance of rivers like the Amazon, Paraná, and Orinoco, along with its mountainous landscapes, which provide the ideal conditions for hydropower production.
+
+![Heat Africa](Day%2025/Day%2025.png)
+
+Tutorial Source: [CASA0023 Remotely Sensing Cities and Environments: Temperature](https://andrewmaclachlan.github.io/CASA0023/8_temperature.html)
+
+Data Source: [MODIS Aqua](MODIS/061/MYD11A1) ; [MODIS Terra](https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD11A1)
+
 ### Day 24: Only circular shapes
 
 The theme of "circular shapes" sparked some flashbacks of last year's theme of "is it a map or is it a chart?" which had quite a few maps featuring pie charts and proportionate circles, blending data visualisation with geography. This year, I tried to recreate that style to explore renewable energy generation in South America. Brazil stands out as the largest renewable energy producer on the continent. Meanwhile, hydropower dominates the region's energy mix. This is largely due to South America's abundance of rivers like the Amazon, Paraná, and Orinoco, along with its mountainous landscapes, which provide the ideal conditions for hydropower production.

@@ -13,7 +13,7 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ### Day 26: Map projections
 
-I originally planned to use red and blue to represent Iceland as the 'Land of Fire and Ice'. However, I forgot the white background would be considered a third colour and hence changed the colour scheme to be black and white. The resulting map has a retro aesthetic, with dashed lines representing boundaries, triangles marking volcanoes, and polygons styled with filled patterns to depict glaciers.
+I explored various projections using the Cartopy library to visualize the Köppen-Geiger climate classification projection for 2076 to 2100, based on the IPCC A1FI Tyndall SC 2.03 temperature and precipitation scenarios. I ultimately chose to visualize the data using three distinct projections: Gnomonic, Goode Homolosine, and Azimuthal Equidistant, each with its own use cases and distortions.
 
 ![Projections](Day%2026/Koppen_Geiger_Projections_projected_2076-2100.png)
 

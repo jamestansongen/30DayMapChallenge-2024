@@ -11,6 +11,14 @@ I am an MSc Graduate in Urban Spatial Science from the Centre for Advanced Spati
 My other interests include hiking, drone piloting/photography and board games. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 26: Map projections
+
+I originally planned to use red and blue to represent Iceland as the 'Land of Fire and Ice'. However, I forgot the white background would be considered a third colour and hence changed the colour scheme to be black and white. The resulting map has a retro aesthetic, with dashed lines representing boundaries, triangles marking volcanoes, and polygons styled with filled patterns to depict glaciers.
+
+![Projections](Day%2026/Koppen_Geiger_Projections_projected_2076-2100.png)
+
+Data Source: [World Bank](https://datacatalog.worldbank.org/search/dataset/0042325)
+
 ### Day 25: Heat
 
 Revisited one of my remote sensing practicals in Google Earth Engine. This map visualises the Average Land Surface Temperature (LST) in Africa for 2023, derived from the MODIS Aqua and Terra satellites. MODIS is an excellent dataset for studying temperature patterns due to its high temporal resolution, providing nearly daily global coverage. The map highlights the temperature variability across Africa, with higher temperatures prevailing in the Sahara Desert in the north and cooler conditions observed in the central regions, influenced by dense vegetation, and parts of the south, where temperatures are moderated by the ocean.

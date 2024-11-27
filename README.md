@@ -11,9 +11,17 @@ I am an MSc Graduate in Urban Spatial Science from the Centre for Advanced Spati
 My other interests include hiking, drone piloting/photography and board games. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 27: Micromapping
+
+I was not really interested in digitising places, creating floorplans, or zooming into specific locations. Instead, I chose to map a specific scene from Star Wars: Episode III – Revenge of the Sith to illustrate the iconic "high ground" meme. I performed some rough calculations to estimate Obi-Wan's high ground advantage, though there might be more accurate ways to approach the analysis.
+
+![SW](Day%2027/Day%2027.png)
+
+Image Source: [Star Wars](https://vignette1.wikia.nocookie.net/starwars/images/a/a2/High_ground.png/revision/latest?cb=20130205045846)
+
 ### Day 26: Map projections
 
-I explored various projections using the Cartopy library to visualize the Köppen-Geiger climate classification projection for 2076 to 2100, based on the IPCC A1FI Tyndall SC 2.03 temperature and precipitation scenarios. I ultimately chose to visualize the data using three distinct projections: Gnomonic, Goode Homolosine, and Azimuthal Equidistant, each with its own use cases and distortions.
+I explored various projections using the Cartopy library to visualise the Köppen-Geiger climate classification projection for 2076 to 2100, based on the IPCC A1FI Tyndall SC 2.03 temperature and precipitation scenarios. I ultimately chose to visualise the data using three distinct projections: Gnomonic, Goode Homolosine, and Azimuthal Equidistant, each with its own use cases and distortions.
 
 ![Projections](Day%2026/Koppen_Geiger_Projections_projected_2076-2100.png)
 

@@ -11,6 +11,16 @@ I am an MSc Graduate in Urban Spatial Science from the Centre for Advanced Spati
 My other interests include hiking, drone piloting/photography and board games. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 28: The Blue Planet
+
+Early in the challenge, I encountered several artistic maps showcasing Relative Elevation Models (REMs) for rivers. This inspired me to explore the methodology for this theme. Unlike DEMs, REMs use the river's water surface as the baseline elevation, rather than sea level. This approach highlights subtle floodplain features, such as oxbow lakes and meander scars, which can reveal the historical migration of rivers. By capturing these details, REMs provide valuable insights into river dynamics and floodplain evolution.
+
+![REM](Day%2028/Day%2028_edited_2.png)
+
+Tutorial Source: [Creating REMs in QGIS with the IDW Method](https://dancoecarto.com/creating-rems-in-qgis-the-idw-method)
+
+Data Source: [USGS Lidar Explorer Map](https://apps.nationalmap.gov/lidar-explorer/#/)
+
 ### Day 27: Micromapping
 
 I was not really interested in digitising places, creating floorplans, or zooming into specific locations. Instead, I chose to map a specific scene from Star Wars: Episode III – Revenge of the Sith to illustrate the iconic "high ground" meme. I performed some rough calculations to estimate Obi-Wan's high ground advantage, though there might be more accurate ways to approach the analysis.

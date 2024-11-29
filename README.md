@@ -15,6 +15,8 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 Overture Maps is a collaborative initiative between organisations like AWS, Meta, Microsoft, and TomTom aimed at integrating high-quality, up-to-date map data. For this challenge, I explored various tutorials to deepen my understanding of Overture, focusing on tasks such as retrieving data for different infrastructure types and visualising buildings in 3D. While I successfully rendered 3D building models, I noticed that some of the height data may be incomplete.
 
+![Overture](Day%2029/Day%2029_2.png)
+
 Tutorial Sources: https://ibis-project.org/posts/ibis-overturemaps/ ; https://developmentseed.org/lonboard/latest/examples/overture-maps/
 
 ### Day 28: The Blue Planet

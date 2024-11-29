@@ -17,7 +17,8 @@ Overture Maps is a collaborative initiative between organisations like AWS, Meta
 
 ![Overture](Day%2029/Day%2029_2.png)
 
-Tutorial Sources: https://ibis-project.org/posts/ibis-overturemaps/ ; https://developmentseed.org/lonboard/latest/examples/overture-maps/
+Tutorial Sources: [From query to plot: Exploring GeoParquet Overture Maps with Ibis, DuckDB, and Lonboard](https://ibis-project.org/posts/ibis-overturemaps/) ; [
+Overture Maps Buildings](https://developmentseed.org/lonboard/latest/examples/overture-maps/)
 
 ### Day 28: The Blue Planet
 

@@ -11,6 +11,16 @@ I am an MSc Graduate in Urban Spatial Science from the Centre for Advanced Spati
 My other interests include hiking, drone piloting/photography and board games. \
 For opportunities or collaboration, I can be contacted via [LinkedIn](https://www.linkedin.com/in/james-tan-song-en-76b73418a/)
 
+### Day 30: The Final Map
+
+Early in the challenge, I encountered several artistic maps showcasing Relative Elevation Models (REMs) for rivers. This inspired me to explore the methodology for this theme. Unlike DEMs, REMs use the river's water surface as the baseline elevation, rather than sea level. This approach highlights subtle floodplain features, such as oxbow lakes and meander scars, which can reveal the historical migration of rivers. By capturing these details, REMs provide valuable insights into river dynamics and floodplain evolution.
+
+![VisibilityAnalysis](Day%2030/Day%2030.png)
+
+Tutorial Source: [Running Visibility Analysis in QGIS](https://towardsdatascience.com/running-visibility-analysis-in-qgis-d8fbdd8b02c5)
+
+Data Source: [Department for Environment, Food & Rural Affairs](https://environment.data.gov.uk/survey)
+
 ### Day 29: Overture
 
 Overture Maps is a collaborative initiative between organisations like AWS, Meta, Microsoft, and TomTom aimed at integrating high-quality, up-to-date map data. For this challenge, I explored various tutorials to deepen my understanding of Overture, focusing on tasks such as retrieving data for different infrastructure types and visualising buildings in 3D. While I successfully rendered 3D building models, I noticed that some of the height data may be incomplete.

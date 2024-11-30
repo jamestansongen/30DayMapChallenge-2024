@@ -13,7 +13,7 @@ For opportunities or collaboration, I can be contacted via [LinkedIn](https://ww
 
 ### Day 30: The Final Map
 
-Early in the challenge, I encountered several artistic maps showcasing Relative Elevation Models (REMs) for rivers. This inspired me to explore the methodology for this theme. Unlike DEMs, REMs use the river's water surface as the baseline elevation, rather than sea level. This approach highlights subtle floodplain features, such as oxbow lakes and meander scars, which can reveal the historical migration of rivers. By capturing these details, REMs provide valuable insights into river dynamics and floodplain evolution.
+As the 2024 season comes to a close, I decided to pay tribute to London for its role in guiding me back to the geospatial side of things. I also wanted to utilise LiDAR data as I have not touched it for the previous 29 days so this tutorial on visibility analysis provided invaluable in shaping the final map. Until next time!
 
 ![VisibilityAnalysis](Day%2030/Day%2030.png)
 
